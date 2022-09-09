@@ -13,15 +13,17 @@ Desta forma, o presente trabalho se propõe a centralizar em uma única platafor
 ## Objetivos Especificos
 Como objetivos específicos, podemos ressaltar: 
 
-Fornecer funcionalidades que permitam ao usuário se cadastrar na aplicação e registrar o(s) seu(s) animais domésticos, vinculando-os em sua conta; 
+Fornecer funcionalidades que permitam ao usuário buscar por candidato e visualizar como este, no caso de ter ocupado cadeira no legislativo, tem votado e em quais projetos.
 
-Fornecer funcionalidades que permitam ao usuário registrar as vacinas e vermífugos que foram tomados pelos seus animais, bem como as demais informações que complementam esse registro; 
+Fornecer funcionaliade que permita o usuário à buscar por projeto de lei e visualizar como os membros do executivo e legislativo tem se posicionado à respeito
 
-Fornecer funcionalidades que notifiquem o usuário quanto aos prazos de repetição de novas doses de vacinas e vermífugos; 
+Fornecer funcionalidade que exiba os gastos vinculados às verbas de gabinete de cada membro do governo
+
+Fornecer funcionalidade de Fake Check relacionado à cada candidato ou membro do governo
 
 ## Justificativa
 
-Preservar a saúde pública engloba muitas vertentes, envolvendo ações mínimas que juntas são capazes de gerar um impacto maior. A ferramenta apresentada deve contribuir para essa preservação ao trazer visibilidade para a vacinação de animais que convivem com pessoas diariamente em seus lares, conscientizando aos donos sobre os possíveis impactos da insalubridade de seus bichos no ser humano e auxiliando-os a manter uma agenda de vacinação atualizada completamente digital. 
+Combater os efeitos nocivos do que chamamos de infodemia e fake news, promovendo maior qualidade informacional aos cidadãos.
 
 ## Público-Alvo
 
