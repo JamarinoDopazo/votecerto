@@ -17,7 +17,7 @@ Recentemente, a Organização Mundial da Saúde definiu “infodemia” como “
 * Janaina Jamarino Rosa Fernandez Dopazo
 * Leandro David Metzker
 * Luiza Jamarino Rosa Grigorio
-* Platini
+* Platini Gomes da Rocha
 * Priscilha Sansão Alves
 
 ## Leonardo Vilela Cardoso
