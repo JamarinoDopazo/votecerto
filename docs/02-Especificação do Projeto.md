@@ -56,7 +56,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 A seguir, os indicadores de desempenho que serão monitorados para controle e melhoria do sistema.
 
-![indicadores de desempenho](https://user-images.githubusercontent.com/78181968/189530219-25f80f2c-9d1c-4892-9f30-d3066d92940e.png)
+![indicadores de desempenho](img/02-indicadorDesempenho.png)
 
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
@@ -108,7 +108,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 A seguir, apresentam-se os casos de uso que contemplam a aplicação á ser desenvolvida. O diagrama dá uma visão geral do comportamento do sistema pela parte de usuário e a interna do sistema.
 
-![Diagrama de caso de uso BareFeets](https://user-images.githubusercontent.com/78181968/189528803-73536778-8832-4644-a2db-83ffc8b3dc3a.jpeg)
+![Diagrama de caso de uso Vote Certo](img/02-DiagramaCasoUso.png)
 
 # Matriz de Rastreabilidade
 
@@ -132,16 +132,16 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 O gerenciamento de tempo da equipe foi dividido em cinco etapas que contêm diversas subtarefas que deverão ser concluídas dentro do tempo estipulado. A seguir, pode-se observar o PDF gráfico da organização de cronograma que a equipe deverá seguir.
 
-[Barefeets cronograma.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e4-proj-infra-t2-barefeet/files/9542584/Barefeets.cronograma.pdf)
+[Vote Certo cronograma.pdf](img/02-Cronogrma.png
 
 ## Gerenciamento de Equipe
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![Simple Project Timeline](img/02-timeline.png)
 
 ## Gestão de Orçamento
 
 A seguir, apresenta-se a planilha de orçamento previsto para implementação efetiva do projeto. 
 
-![Planilha de custos](https://user-images.githubusercontent.com/78181968/189530401-4712965e-f16c-4028-8951-76e6c75bb649.png)
+![Planilha de custos](img/02-PlanilhaDeCustos.png)
