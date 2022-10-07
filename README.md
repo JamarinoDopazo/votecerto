@@ -20,7 +20,7 @@ Recentemente, a Organização Mundial da Saúde definiu “infodemia” como “
 * Platini Gomes da Rocha
 * Priscilha Sansão Alves
 
-## Leonardo Vilela Cardoso
+## Orientador
 
 * Leonardo Vilela Cardoso
 
