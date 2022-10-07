@@ -4,18 +4,18 @@ Recentemente, a Organização Mundial da Saúde definiu “infodemia” como “
 
 ## Problema
 
-Dizemos então que "Infodemia" representa, assim, um fenômeno informacional novo. Além do qe fora mencionado, as fake news e a desinformação se tornaram importantes problemas para o Brasil nos últimos anos, de forma que várias ações têm sido pensadas e executadas para combater os seus efeitos nocivos, principalmente no cenário político nacional. 
+Dizemos então que "Infodemia" representa, assim, um fenômeno informacional novo. Além do que fora mencionado, as Fake News e a desinformação se tornaram importantes problemas para o Brasil nos últimos anos, de forma que várias ações têm sido pensadas e executadas para combater os seus efeitos nocivos, principalmente no cenário político nacional. 
  
 ## Objetivos
 
-Desta forma, o presente trabalho se propõe a centralizar em uma única plataforma, candidatos e políticos eleitos, para os candidatos, se são novos no cenário político ou se já foram eleitos alguma vez, o que estes tem feito no governo, projetos que tem sido favoráveis e/ou contra, gastos divulgados no portal da transparência. A princípio, trabalharemos com os governantes da esfera federal (excutivo), ou seja, presidete e candidatos à presidência da república, futuramente emcorporaremos os demais níveis (legislativo e judiciário) nas esferas estaduais e municipais.
+Desta forma, o presente trabalho se propõe a centralizar em uma única plataforma, candidatos e políticos eleitos, para os candidatos, se são novos no cenário político ou se já foram eleitos alguma vez, o que estes tem feito no governo, projetos que tem sido favoráveis e/ou contra, gastos divulgados no portal da transparência. A princípio, trabalharemos com os governantes da esfera federal (executivo), ou seja, presidente e candidatos à presidência da república, futuramente encorporaremos os demais níveis (legislativo e judiciário) nas esferas estaduais e municipais.
 
-## Objetivos Especificos
+## Objetivos Específicos
 Como objetivos específicos, podemos ressaltar: 
 
 Fornecer funcionalidades que permitam ao usuário buscar por candidato e visualizar como este, no caso de ter ocupado cadeira no legislativo, tem votado e em quais projetos.
 
-Fornecer funcionaliade que permita o usuário à buscar por projeto de lei e visualizar como os membros do executivo e legislativo tem se posicionado à respeito
+Fornecer funcionalidades que permita ao usuário buscar por projeto de lei e visualizar como os membros do executivo e legislativo tem se posicionado à respeito
 
 Fornecer funcionalidade que exiba os gastos vinculados às verbas de gabinete de cada membro do governo
 
@@ -23,7 +23,7 @@ Fornecer funcionalidade de Fake Check relacionado à cada candidato ou membro do
 
 ## Justificativa
 
-Combater os efeitos nocivos do que chamamos de infodemia e fake news, promovendo maior qualidade informacional aos cidadãos.
+Combater os efeitos nocivos do que chamamos de infodemia e Fake News, promovendo maior qualidade informacional aos cidadãos.
 
 ## Público-Alvo
 
